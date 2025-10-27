@@ -1,0 +1,83 @@
+.menu{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 3cm;
+    margin-top: 2cm;
+     margin-left: 3cm;
+     }
+
+.home{
+    text-decoration: none;
+    background-color: rgb(1, 255, 255);
+    border-radius: 8px;
+    border: none;
+}
+.home:hover{
+    transition: o.1s;
+    transform: scale(1.2);
+    background-color: white;
+
+}
+.gallary{
+    text-decoration: none;
+    background-color: rgb(1, 255, 255);
+    border-radius: 8px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+.gallary:hover{
+    transition: o.1s;
+    transform: scale(1.2);
+    background-color: white;
+
+}
+.about{
+    text-decoration: none;
+    background-color: rgb(1, 255, 255);
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about:hover{
+    transition: o.1s;
+    transform: scale(1.2);
+    background-color: white;
+
+}
+.contact{
+    text-decoration: none;
+    background-color: rgb(1, 255, 255);
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact:hover{
+    transition: o.1s;
+    transform: scale(1.2);
+    background-color: white;
+
+}
+img{
+    
+    
+}
+.button{
+    color: blue;
+    text-decoration: none;
+}
+.button:hover{
+    transition: 0s;
+    transform: scale(0.3);
+
+}
+.heading{
+    color: rgb(253, 3, 3);
+}
+.title{
+    transition: 0s;
+    background-color: blue;
+}
